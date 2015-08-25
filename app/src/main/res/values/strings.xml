@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSubtruct">-</string>
+    <string name="addButton">+</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_division">/</string>
+    <string name="equal_str">=</string>
+    <string name="result_text">Result Shown Hare</string>
+</resources>
